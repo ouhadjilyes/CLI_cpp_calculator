@@ -1,5 +1,5 @@
 # CLI_cpp_calculator
-A simple CLI c++ calculator written with a grammar to parse input calculations and implemented with OOP.
+A simple CLI c++ calculator written with a grammar to parse input calculations implemented with OOP.
 
 # Installation:
 ------------------------------------------------------------------------------
